@@ -1,0 +1,36 @@
+.page-title {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 48px;
+}
+
+.description {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    max-width: 930px;
+}
+
+.header {
+    color: #ffffff;
+    background: url(../img/headerbg.jpg);
+    padding-top: 32px;
+    padding-bottom: 20px;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.topic-title {
+    font-family: 'Bebas Neue', sans-serif !important;
+    font-size: 40px;
+}
+
+.section-title {
+    font-size: 24px;
+}
+
+.nav-item {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
